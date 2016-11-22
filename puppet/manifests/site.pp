@@ -1,0 +1,2 @@
+class{firefox:}
+class{wallpaper:}
